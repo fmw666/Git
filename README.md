@@ -2,7 +2,7 @@
 
 *⚡[Git]()是目前世界上最先进的分布式版本控制系统（没有之一）。*
 
-- 在[Windows]()上安装[Git]()
+- **在[Windows]()上安装[Git]()**
 
   > [Git官网](https://git-scm.com/downloads)直接下载安装程序，（网速慢的同学请移步[国内镜像](https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit)）
   
@@ -27,7 +27,7 @@
    
    然后输入 `$ ssh -T git@github.com` 测试连通状态
    
-- 创建本地仓库
+- **创建本地仓库**
 
   + 选择一个本地文件夹，用作保存本地仓库文件，尽量是空文件夹。
   + 然后使用命令 `$ git init` 初始化文件夹。
@@ -38,7 +38,7 @@
    
   + 然后此文件夹下会多一个和你仓储名一样的文件夹，内部文件与远程仓库一样。
   
-- 常用命令
+- **常用命令**
 
   ```git
   $ git add . //添加文件
@@ -49,14 +49,14 @@
   $ git fetch origin master:temp
   $ git merge master
   ```
-- 图床介绍
+- **图床介绍**
 
   *写博客就无法避免上传图片，图床就是这么一个地方，就是一个网站，你发自己的图片上传到它的网站，然后它给你一个这个图片的链接，插入博客中就能显示图片了。*
   + 推荐一个知名的，七牛云[https://portal.qiniu.com/](https://portal.qiniu.com/)，注册完实名认证后有一些优惠。 
   + 还有一个神奇的网站：[https://sm.ms/](https://sm.ms/)，也能用
   
-- Hexo博客搭建  
+- **Hexo+github博客搭建**  
 
   + 推荐一个CSDN博主的文章，[点击这里](https://blog.csdn.net/Mr_yu_java/article/details/81077064)
-  + [点击这里](https://hans2936.github.io/2018/06/06/HexoLog/)
-  + [官方教程](https://hexo.io/zh-cn/docs/deployment.html)
+  + 一个git用户很详细的分享，[点击这里](https://hans2936.github.io/2018/06/06/HexoLog/)
+  + 当然，官方教程更全面，[点击这里](https://hexo.io/zh-cn/docs/deployment.html)
