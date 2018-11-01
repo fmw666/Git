@@ -21,7 +21,7 @@
   ```
   + 生成如下两个文件：
   
-  <img src="https://img-blog.csdn.net/20180331221012285?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tOSUdIX1lVTg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70">
+  ![git.png](https://i.loli.net/2018/11/01/5bdb01c742769.png)
   
    > `id_rsa.pub` 就是我们待会需要的公钥文件，使用命令 `$ cat id_rsa.pub` 再将内容复制到剪切板，然后进入github账号设置里面添加SSH key
    
@@ -49,3 +49,8 @@
   $ git fetch origin master:temp
   $ git merge master
   ```
+- 图床介绍
+
+  *写博客就无法避免上传图片，图床就是这么一个地方，就是一个网站，你发自己的图片上传到它的网站，然后它给你一个这个图片的链接，插入博客中就能显示图片了。*
+  + 推荐一个知名的，七牛云[https://portal.qiniu.com/](https://portal.qiniu.com/)，注册完实名认证后有一些优惠。 
+  + 还有一个神奇的网站：[https://sm.ms/](https://sm.ms/)，也能用
