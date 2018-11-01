@@ -54,3 +54,7 @@
   *写博客就无法避免上传图片，图床就是这么一个地方，就是一个网站，你发自己的图片上传到它的网站，然后它给你一个这个图片的链接，插入博客中就能显示图片了。*
   + 推荐一个知名的，七牛云[https://portal.qiniu.com/](https://portal.qiniu.com/)，注册完实名认证后有一些优惠。 
   + 还有一个神奇的网站：[https://sm.ms/](https://sm.ms/)，也能用
+  
+- Hexo博客搭建  
+
+  推荐一个CSDN博主的文章，[点击这里](https://blog.csdn.net/Mr_yu_java/article/details/81077064)
