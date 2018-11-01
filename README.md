@@ -57,4 +57,6 @@
   
 - Hexo博客搭建  
 
-  推荐一个CSDN博主的文章，[点击这里](https://blog.csdn.net/Mr_yu_java/article/details/81077064)
+  + 推荐一个CSDN博主的文章，[点击这里](https://blog.csdn.net/Mr_yu_java/article/details/81077064)
+  + [点击这里](https://hans2936.github.io/2018/06/06/HexoLog/)
+  + [官方教程](https://hexo.io/zh-cn/docs/deployment.html)
