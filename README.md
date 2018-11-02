@@ -61,5 +61,5 @@
   + 一个git用户很详细的分享，[点击这里](https://hans2936.github.io/2018/06/06/HexoLog/)
   + 当然，官方教程更全面，[点击这里](https://hexo.io/zh-cn/docs/deployment.html)
   
-  *这里分享一篇我的总结，[点击这里](Hexo + Github博客搭建.md) *
+  *这里分享一篇我的总结，[点击这里](Hexo + Github博客搭建.md)*
   
