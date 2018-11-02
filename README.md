@@ -60,3 +60,29 @@
   + 推荐一个CSDN博主的文章，[点击这里](https://blog.csdn.net/Mr_yu_java/article/details/81077064)
   + 一个git用户很详细的分享，[点击这里](https://hans2936.github.io/2018/06/06/HexoLog/)
   + 当然，官方教程更全面，[点击这里](https://hexo.io/zh-cn/docs/deployment.html)
+  
+  + 发布博客
+  1. 在本地`hexo->blog->source->\_posts`文件夹下新建[markdown]()文件
+  1. 如下像hello world文章格式一样，发布自己的博客
+  ```markdown
+  ---
+  title: Hello World
+  ---
+  Welcome to [Hexo](https://hexo.io/)!
+
+  ## Quick Start
+
+  ### Create a new post
+
+  ``` bash
+  $ hexo new "My New Post"
+  ```
+
+  More info: [Writing](https://hexo.io/docs/writing.html)
+
+  ### Run server
+
+  ``` bash
+  $ hexo server
+  ```
+  ```
