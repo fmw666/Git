@@ -2,6 +2,7 @@
 ## 发布博客
 + 在本地`hexo\blog\source\_posts`文件夹下,创建一个[markdown]()文件
 + 内容格式仿照当前文件夹下 `hello-workd.md` 文件
+ > 推荐在`hexo\blog`文件夹下，打开[git bash]()，输入`hexo new 文件名`，自动在`_posts`文件夹下创建.md文档，并带有文章格式
 + 回到`hexo\blog`文件夹下，打开[git bash]()
  ```bash
  hexo g  //生成网页
