@@ -36,3 +36,15 @@
      [hexo的next主题个性化教程](https://www.jianshu.com/p/f054333ac9e6) 
      
      [打造个性超赞博客Hexo+Next+githubPages的超深度优化](https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html#)
+## 编写Markdown文档
+*[Markdown](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。*
+
+语法很简单，而且本身内嵌[HTML]()等等，所以要编写排版一个漂亮的`.md`文档，特别简单。
+
+--为什么你还不用Markdown，来自📕[简书](https://www.jianshu.com/p/4922847f025a)
+
+<img src="https://upload-images.jianshu.io/upload_images/220959-687c20d447038989.png?imageMogr2/auto-orient/">
+
+分享一篇来自简书的md语法学习，[点击这里](https://www.jianshu.com/p/c6aa2f35d5ae)
+
+分享一套md里可用的表情包，[点击这里](https://www.cnblogs.com/hglibin/p/9689819.html)
