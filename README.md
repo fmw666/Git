@@ -49,6 +49,15 @@
   $ git fetch origin master:temp
   $ git merge master
   ```
+  > **删除文件夹**
+  ```git
+  $ git init
+  $ git clone https://github.com/name/repository.git
+  $ git pull origin master        #将远程仓库里面的项目拉下来
+  $ git dir                       #查看有哪些文件夹
+  $ git rm -r --cached target     #删除target文件夹
+  $ git commit -m '删除了target文件夹'    #提交并添加操作说明
+  ```
 - **图床介绍**
 
   *写博客就无法避免上传图片，图床就是这么一个地方，就是一个网站，你发自己的图片上传到它的网站，然后它给你一个这个图片的链接，插入博客中就能显示图片了。*
