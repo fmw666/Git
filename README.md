@@ -21,7 +21,7 @@
   ```
   + 生成如下两个文件：
   
-  ![git.png](https://i.loli.net/2018/11/01/5bdb01c742769.png)
+  <div align=center>![git.png](https://i.loli.net/2018/11/01/5bdb01c742769.png)
   
    > `id_rsa.pub` 就是我们待会需要的公钥文件，使用命令 `$ cat id_rsa.pub` 再将内容复制到剪切板，然后进入github账号设置里面添加SSH key
    
