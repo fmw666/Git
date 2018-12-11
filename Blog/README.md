@@ -36,6 +36,7 @@
      [hexo的next主题个性化教程](https://www.jianshu.com/p/f054333ac9e6) 
      
      [打造个性超赞博客Hexo+Next+githubPages的超深度优化](https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html#)
+     
 ## 编写Markdown文档
 *[Markdown](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。*
 
