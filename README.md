@@ -51,6 +51,7 @@
   ```
   
   > **添加文件**
+  
   ```git
   $ git init
   $ git clone https://github.com/name/repository.git
@@ -59,6 +60,7 @@
   ```
   
   > **删除文件夹**
+  
   ```git
   $ git init
   $ git clone https://github.com/name/repository.git
