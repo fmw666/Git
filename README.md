@@ -49,6 +49,7 @@
   $ git fetch origin master:temp
   $ git merge master
   ```
+  
   > **添加文件**
   ```git
   $ git init
@@ -56,6 +57,7 @@
   $ git add name.md                  #如果想一次全部添加则：git add -A
   $ git commit -m '添加了name文件'    #提交并添加操作说明
   ```
+  
   > **删除文件夹**
   ```git
   $ git init
