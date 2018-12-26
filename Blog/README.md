@@ -5,8 +5,11 @@
  > 推荐在`hexo\blog`文件夹下，打开[git bash]()，输入`hexo new 文件名`，自动在`_posts`文件夹下创建.md文档，并带有文章格式
 + 回到`hexo\blog`文件夹下，打开[git bash]()
  ```bash
- hexo g  //生成网页
- hexo d  //部署到远端(github)
+ hexo s      //hexo server
+ //先打开本地服务器查看，如果想提交到网上则执行后三句
+ hexo clean  //清理缓存
+ hexo g      //生成网页
+ hexo d      //部署到远端(github)
  ```
 ## 更换主题
 + 在本地`hexo\blog\themes`文件夹下，创建一个名为`next`的文件夹（用于存放将下载的next主题）
