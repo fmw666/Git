@@ -57,6 +57,7 @@
   $ git clone https://github.com/name/repository.git
   $ git add name.md                  #如果想一次全部添加则：git add -A
   $ git commit -m '添加了name文件'    #提交并添加操作说明
+  $ git push origin master     
   ```
   
   > **删除文件夹**
