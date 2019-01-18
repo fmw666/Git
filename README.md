@@ -70,6 +70,18 @@
   $ git rm -r --cached target     #删除target文件夹
   $ git commit -m '删除了target文件夹'    #提交并添加操作说明
   ```
+  
+  > **上传超过100M的文件到github**
+  
+  ```git
+  $ git lfs install   #在本地仓库下安装lfs
+  #添加了大文件后...
+  $ git lfs track "文件名.后缀名"  #重要一步！ 正确会显示提示：'Tracking "文件名.后缀名"'
+  $ git add .
+  $ git commit -m "提交信息"
+  $ git push -u origin master
+  ```
+
 - **图床介绍**
 
   *写博客就无法避免上传图片，图床就是这么一个地方，就是一个网站，你发自己的图片上传到它的网站，然后它给你一个这个图片的链接，插入博客中就能显示图片了。*
