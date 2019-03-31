@@ -2,6 +2,9 @@
 
 *⚡[Git]()是目前世界上最先进的分布式版本控制系统（没有之一）。*
 
+添加 README.md 文档的作用：官方的说法是`Help people interested in this repository understand your project by adding a README.`
+> 通过添加自述，帮助对这个存储库感兴趣的人理解您的项目。(来自有道翻译)
+
 - **在[Windows]()上安装[Git]()**
 
   > [Git官网](https://git-scm.com/downloads)直接下载安装程序，（网速慢的同学请移步[国内镜像](https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit)）
