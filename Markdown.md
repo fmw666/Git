@@ -1,5 +1,5 @@
 <details>
-    <summary><h2><a href="#">标题</a></h2>（点击此行展开目录）</summary>
+    <h2><a href="#">标题</a></h2><summary>（点击此行展开目录）</summary>
     <ul>
     <img src="https://github.com/fmw666/Python/blob/master/pics/cute-chuoni.jpg?raw=true">
         <li>1</li>
