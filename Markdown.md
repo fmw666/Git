@@ -11,4 +11,4 @@
 
 比如 https://badgen.net/github/stars/fmw666/Operating-System?icon=github&color=4ab8a1 
 
-可以显示 ![stars](https://badgen.net/github/forks/fmw666/Operating-System?icon=github&color=4ab8a1)]
+可以显示 ![stars](https://badgen.net/github/forks/fmw666/Operating-System?icon=github&color=4ab8a1)
