@@ -6,3 +6,9 @@
         <li><details><summary>点击我展开</summary>内容</details></li>
     </ul>
 </details>
+
+快速图标生成服务，官方网站 [https://badgen.net/](https://badgen.net/)
+
+比如 https://badgen.net/github/stars/fmw666/Operating-System?icon=github&color=4ab8a1 
+
+可以显示 ![stars](https://badgen.net/github/forks/fmw666/Operating-System?icon=github&color=4ab8a1)]
