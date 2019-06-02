@@ -24,10 +24,10 @@
 <i>网站展示地址：[https:](https:)</i><br>
 >> 更多关于 [`docsify`](#welcome) 的完整学习，请参考其官网：[https://docsify.js.org/#/quickstart](https://docsify.js.org/#/quickstart)
 
-1. [全局安装]()
+### 1. [全局安装]()
 
-1. [初始化]()
+### 1. [初始化]()
 
-1. [本地运行预览]()
+### 1. [本地运行预览]()
 
-1. [添加封面]()
+### 1. [添加封面]()
