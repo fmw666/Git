@@ -96,7 +96,7 @@
 ```markdown
 <!-- _coverpage.md -->
 
-<img src="__media/icon.png" width="100">
+<img src="&#95;media/icon.png" width="100">
 
 # 计算机操作系统
 
