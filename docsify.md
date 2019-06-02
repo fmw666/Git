@@ -42,7 +42,7 @@
 
 1. [添加条目内容](#添加条目内容)
 
-1. [完善 index.html](#完善 index.html)
+1. [完善 index.html](#完善%20index.html)
 
 *---*
 
