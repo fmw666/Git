@@ -17,7 +17,7 @@
 
 *---*
 
-<img src="https://github.com/fmw666/my-image-file/blob/master/images/small/give-me-five.png" width="200">
+<center><img src="https://github.com/fmw666/my-image-file/blob/master/images/small/give-me-five.png" width="200"></center>
 
 ## 简单入门指南
 
