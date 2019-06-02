@@ -42,9 +42,11 @@
 
 1. [添加条目内容](#添加条目内容)
 
-1. [完善 index.html](#完善%20index.html)
+1. [完善 index.html](#完善-index.html)
 
 1. [项目目录结构层次预览](#项目目录结构层次预览)
+
+1. [部署到 GitHub](#部署到-GitHub)
 
 *---*
 
@@ -628,6 +630,15 @@
 ```
 
 <div align=right><a href="#简单入门指南">⬆ return to top</a></div>
+
+### 部署到 GitHub
+
+&emsp;&emsp;📤 在储存库主分支下，添加我们的 `docs` 文件夹进去，然后在我们 GitHub Pages 页选择我们的 `docs folder` 选项，具体可参考我已部署好的储存库：[Operating-System](https://github.com/fmw666/Operating-System/) 
+
+<img src="https://docsify.js.org/_images/deploy-github-pages.png">
+
+<div align=right><a href="#简单入门指南">⬆ return to top</a></div>
+
 <br><br><br>
 
 <div align=center>--end--</div>
