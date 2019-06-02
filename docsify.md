@@ -44,6 +44,8 @@
 
 1. [完善 index.html](#完善%20index.html)
 
+1. [项目目录结构层次预览](#项目目录结构层次预览)
+
 *---*
 
 ### 全局安装
@@ -608,3 +610,24 @@
   ```
 
 <div align=right><a href="#简单入门指南">⬆ return to top</a></div>
+
+### 项目目录结构层次预览
+
+```text
+.
+└── docs
+    ├── _media
+    ├── pics
+    ├── _coverpage.md
+    ├── .nojekyll
+    ├── index.html
+    └── README.md
+    └── notes
+        ├── 1.1 操作系统的目标和作用.md
+        └── ...
+```
+
+<div align=right><a href="#简单入门指南">⬆ return to top</a></div>
+<br><br><br>
+
+<center>--end--</center>
