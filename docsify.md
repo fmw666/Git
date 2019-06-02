@@ -93,7 +93,7 @@
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/
 ```
 
-```markdown
+```text
 <!-- _coverpage.md -->
 
 <img src="_media/icon.png" width="100">
