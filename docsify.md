@@ -58,12 +58,53 @@
   docsify init ./docs
   ```
   
-  🛠 命令执行后会在文件夹下出现我们 `docs` 文件夹，其中 `./docs` 下：
+🛠 命令执行后会在文件夹下出现我们 `docs` 文件夹，其中 `./docs` 下：
 
-  + [`index.html`](#welcome) 作为入口文件
++ [`index.html`](#welcome) 作为入口文件
 
-  + [`README.md`](#welcome) 作为主页
++ [`README.md`](#welcome) 作为主页
 
-  + [`.nojekyll`](#welcome) 防止GitHub页面忽略以下划线开头的文件
++ [`.nojekyll`](#welcome) 防止GitHub页面忽略以下划线开头的文件
 
 <div align=right><a href="#简单入门指南">⬆ return to top</a></div>
+
+### 本地运行预览
+
+&emsp;&emsp;💻 在启动后，您可以在浏览器中预览您的网站：http://localhost:3000
+
+  ```bash
+  docsify serve docs
+  ```
+  
+<div align=right><a href="#简单入门指南">⬆ return to top</a></div>
+
+### 添加封面
+
+&emsp;&emsp;⚙ 设置 [`coverpage`](#welcome) 为 [true](#welcome)，并创建一个 [`\_coverpage.md`](#welcome)：
+
+```html
+<!-- index.html -->
+
+<script>
+  window.$docsify = {
+    coverpage: true
+  }
+</script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/
+```
+
+```markdown
+<!-- _coverpage.md -->
+
+<img src="_media/icon.png" width="100">
+
+# 计算机操作系统
+
+- 全文基于汤子瀛的《计算机操作系统》第四版--西安电子科技大学出版社
+
+[![stars](https://badgen.net/github/stars/fmw666/Operating-System?icon=github&color=4ab8a1)](https://github.com/fmw666/Operating-System) 
+[![forks](https://badgen.net/github/forks/fmw666/Operating-System?icon=github&color=4ab8a1)](https://github.com/fmw666/Operating-System)
+
+[GitHub](https://github.com/fmw666/Operating-System/)
+[开始阅读](README.md)
+```
