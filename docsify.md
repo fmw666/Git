@@ -630,4 +630,4 @@
 <div align=right><a href="#简单入门指南">⬆ return to top</a></div>
 <br><br><br>
 
-<center>--end--</center>
+<div align=center>--end--</div>
