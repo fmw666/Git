@@ -252,7 +252,7 @@
 
 ### 完善 index.html
 
-&emsp;&emsp;🎈 特别强调，我这里 copy 了 github 用户名为 [cyc2018](https://github.com/CyC2018/CS-Notes) 的样式。// 仰仗一波大佬
+&emsp;&emsp;🎈 特别强调，我这里 copy 了 `GitHub` 用户名为 [cyc2018](https://github.com/CyC2018/CS-Notes) 的样式。// 仰仗一波大佬
 
   ```html
   <!-- index.html -->
