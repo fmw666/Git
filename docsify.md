@@ -19,7 +19,7 @@
 
 ## 简单入门指南
 
-> 注：以下内容全基于作者搭建一个<b>《计算机操作系统》</b>文档网站所用<br>
+> <b>注：</b>以下内容全基于作者搭建一个<b>《计算机操作系统》</b>文档网站所用<br><br>
 <b>`GitHub` 地址：</b>[https://github.com/fmw666/Operating-System](https://github.com/fmw666/Operating-System/)<br>
 <b>网站展示地址：</b>[https:](https:)
 >> 更多关于 [`docsify`](#welcome) 的完整学习，请参考其官网：[https://docsify.js.org/#/quickstart](https://docsify.js.org/#/quickstart)
