@@ -14,3 +14,15 @@
 * 官方网站 [https://docsify.js.org/#/](https://docsify.js.org/#/)
 
 * 官方 [GitHub](https://github.com/docsifyjs/docsify)
+
+*---*
+
+## 简单入门指南
+
+* [全局安装]()
+
+* [初始化]()
+
+* [本地运行预览]()
+
+* [添加封面]()
