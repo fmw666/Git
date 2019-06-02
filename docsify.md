@@ -44,8 +44,8 @@
 
 &emsp;&emsp;💡 全局安装有助于在本地初始化和预览网站。
 
-```bash
-npm i docsify-cli -g
-```
+  ```shell
+  npm i docsify-cli -g
+  ```
 
 <div align=right><a href="#简单入门指南">⬆ return to top</a></div>
