@@ -94,9 +94,9 @@
 ```
 
 ```markdown
-<!-- _coverpage.md -->
+<!-- \_coverpage.md -->
 
-<img src="_media/icon.png" width="100">
+<img src="\_media/icon.png" width="100">
 
 # 计算机操作系统
 
