@@ -58,12 +58,12 @@
   docsify init ./docs
   ```
   
-🛠 命令执行后会在文件夹下出现我们 `docs` 文件夹，其中 `./docs` 下：
+  🛠 命令执行后会在文件夹下出现我们 `docs` 文件夹，其中 `./docs` 下：
 
-+ [`index.html`](#welcome) 作为入口文件
+  + [`index.html`](#welcome) 作为入口文件
 
-+ [`README.md`](#welcome) 作为主页
+  + [`README.md`](#welcome) 作为主页
 
-+ [`.nojekyll`](#welcome) 防止GitHub页面忽略以下划线开头的文件
+  + [`.nojekyll`](#welcome) 防止GitHub页面忽略以下划线开头的文件
 
 <div align=right><a href="#简单入门指南">⬆ return to top</a></div>
