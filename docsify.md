@@ -42,6 +42,8 @@
 
 1. [添加条目内容](#添加条目内容)
 
+1. [完善 index.html](#完善 index.html)
+
 *---*
 
 ### 全局安装
@@ -100,7 +102,7 @@
   ```markdown
   <!-- _coverpage.md -->
 
-  <img src="_media/icon.png" width="100">
+  <img src="\_media/icon.png" width="100">
 
   # 计算机操作系统
 
@@ -214,6 +216,8 @@
 &emsp;&emsp;📁 新建 `notes` 文件夹，用于存放文档，新建 `pics` 文件夹，用于存放文档所需图片。在 `notes` 文件夹下新建文件 `1.1 操作系统的目标和作用.md`
 
   ```markdown
+  <!-- 1.1 操作系统的目标和作用.md -->
+  
   <div align="right"><a href="#README.md">返回目录</a></div>
 
   ## 1.1 操作系统的目标和作用
