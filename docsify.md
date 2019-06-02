@@ -52,10 +52,18 @@
 
 ### 初始化
 
-&emsp;&emsp;💡 全局安装有助于在本地初始化和预览网站。
+&emsp;&emsp;📂 在空文件夹下启动 shell 用以创建我们的项目。
 
-  ```shell
-  npm i docsify-cli -g
+  ```bash
+  docsify init ./docs
   ```
+  
+🛠 命令执行后会在文件夹下出现我们 `docs` 文件夹，其中 `./docs` 下：
+
++ [`index.html`](#welcome) 作为入口文件
+
++ [`README.md`](#welcome) 作为主页
+
++ [`.nojekyll`](#welcome) 防止GitHub页面忽略以下划线开头的文件
 
 <div align=right><a href="#简单入门指南">⬆ return to top</a></div>
