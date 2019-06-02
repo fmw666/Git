@@ -108,5 +108,9 @@
 [GitHub](https://github.com/fmw666/Operating-System/)
 [开始阅读](README.md)
 ```
-<!-- 爱好 --> 
-> [在 `./docs` 下创建 `_media` 文件夹，用于存放我们的媒体文件](#welcome)
+
+> 💡 在 `./docs` 下创建 `_media` 文件夹，用于存放我们的媒体文件
+
+<div align=right><a href="#简单入门指南">⬆ return to top</a></div>
+
+### xxx
