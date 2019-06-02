@@ -80,7 +80,7 @@
 
 ### 添加封面
 
-&emsp;&emsp;⚙ 设置 [`coverpage`](#welcome) 为 [true](#welcome)，并创建一个 [`\_coverpage.md`](#welcome)：
+&emsp;&emsp;⚙ 设置 [`coverpage`](#welcome) 为 [true](#welcome)，并创建一个 [`_coverpage.md`](#welcome)：
 
 ```html
 <!-- index.html -->
@@ -93,7 +93,7 @@
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 ```
 
-```text
+```markdown
 <!-- _coverpage.md -->
 
 <img src="_media/icon.png" width="100">
