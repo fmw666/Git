@@ -1,4 +1,7 @@
 # 🌞Hexo + Github博客搭建
+
+> Hexo 官网：[https://hexo.io/docs/](https://hexo.io/docs/)
+
 ## 发布博客
 + 在本地`hexo\blog\source\_posts`文件夹下,创建一个[markdown]()文件
 + 内容格式仿照当前文件夹下 `hello-workd.md` 文件
