@@ -6,6 +6,10 @@
 
 > 为了避免协作开发中 \[文档格式\]、\[规范\]
 
+<div align="center">
+    <img src="https://github.com/fmw666/my-image-file/blob/master/images/cute/small-cute-8.jpg" width=100>
+</div>
+
 <br>
 
 **我们希望您已具备：**
