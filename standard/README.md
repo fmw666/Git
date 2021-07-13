@@ -8,7 +8,7 @@
 
 <br>
 
-***我们希望您已具备：***
+**我们希望您已具备：**
 
 - [x] 熟悉 Markdown 全部语法
 - [x] 完整阅读过 <u>阮一峰</u> 的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
