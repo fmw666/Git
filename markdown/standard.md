@@ -1,4 +1,4 @@
-## 「 文档规范 」 <small>—— 基于 Markdown</small>
+## 「 文档规范 」 <div>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;—— 基于 Markdown</div>
 
 > 💡 为了避免协作开发中 \[文档格式\]、\[规范\]
 
