@@ -1,6 +1,6 @@
 <br>
 
-## 「 文档规范 」 <div>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;—— 基于 Markdown</div>
+## 「 文档规范 」 <div><sub>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;—— 基于 Markdown</sub></div>
 
 <br>
 
