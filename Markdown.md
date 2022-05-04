@@ -7,7 +7,7 @@
     </ul>
 </details>
 
-快速图标生成服务，官方网站 [https://badgen.net/](https://badgen.net/)
+快速图标生成服务，官方网站 <https://badgen.net/>、<https://shields.io/>
 
 比如 https://badgen.net/github/stars/fmw666/Operating-System?icon=github&color=4ab8a1 
 
